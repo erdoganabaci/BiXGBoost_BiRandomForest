@@ -10,9 +10,17 @@ BiXGBoost is a bidirectional method that considers time information and integrat
 ## Thanks to the following project
 [BiXGBoost Repository](https://github.com/zrq0123/BiXGBoost/tree/master) 
 
-### Compare Different Metrics MSE, RMSE, R2 between BiXGBoost and BiRandomForest
-![mse](result_images/visualize_scores_with_grouped_genes/mse.png)
-![rmse](result_images/visualize_scores_with_grouped_genes/rmse.png)
-![r2](result_images/visualize_scores_with_grouped_genes/r2.png)
+## RESULTS
+DREAM4 for output_insilico_size10 samples 5
+
+![global_ranking10](result_images/visualize_scores_with_grouped_genes/global_ranking10.png)
+
+DREAM4 for output_insilico_size100 samples 10
+
+![global_ranking100](result_images/visualize_scores_with_grouped_genes/global_ranking100.png)
+
+E.Coli for output_cold_time_3_replice cold environment samples 3
+
+![ecoli](result_images/visualize_scores_with_grouped_genes/ecoli_global_ranking.png)
 
        
