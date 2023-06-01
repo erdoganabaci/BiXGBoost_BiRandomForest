@@ -2,7 +2,7 @@
 BiXGBoost is a bidirectional method that considers time information and integrates multi decision trees by the boosting method.
 
 ### Pip install
-    scikit-learn Version
+    scikit-learn
     Pandas
     Numpy
 
